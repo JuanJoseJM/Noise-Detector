@@ -1,4 +1,4 @@
-# Noise Detector: Monitorización Acústica Inteligente
+# Noise Detector: Control de ruidos en aulas
 
 Sistema IoT diseñado para la monitorización en tiempo real de niveles de ruido en entornos educativos. Utiliza un **ESP32** para capturar datos, procesarlos en el "Edge" y enviarlos a una base de datos **InfluxDB** mediante una API REST.
 
